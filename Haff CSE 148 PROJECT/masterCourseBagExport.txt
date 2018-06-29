@@ -1,0 +1,7 @@
+Course [courseTitle=ECO111, courseNumber=0, textbookISBNAssigned=23134, numberOfCredits=5]
+Course [courseTitle=CSE111, courseNumber=2, textbookISBNAssigned=11134, numberOfCredits=1]
+Course [courseTitle=CSE218, courseNumber=3, textbookISBNAssigned=31134, numberOfCredits=3]
+Course [courseTitle=CSE118, courseNumber=4, textbookISBNAssigned=31134, numberOfCredits=3]
+Course [courseTitle=CSE244, courseNumber=5, textbookISBNAssigned=41134, numberOfCredits=4]
+Course [courseTitle=CSE246, courseNumber=6, textbookISBNAssigned=31134, numberOfCredits=3]
+null

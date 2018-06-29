@@ -1,0 +1,7 @@
+Textbook [title=Intro To Macroeconomics, author=Connor Molloy, ibsn=23134, price=200.0]
+Textbook [title=Intro To Java Programming, author=Jacob Haff, ibsn=11123, price=90.0]
+Textbook [title=Computer Science Basics, author=Ashley Toomey, ibsn=11134, price=50.0]
+Textbook [title=Intro To Data Structures, author=Ben Chen, ibsn=31134, price=100.0]
+Textbook [title=Basic Java, author=Cheo Teng, ibsn=11134, price=100.0]
+Textbook [title=Intro To Data Structures, author=Ben Chen, ibsn=31134, price=100.0]
+null

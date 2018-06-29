@@ -1,0 +1,4 @@
+Student: firstName=Greg, lastName=Haff, id=1, phoneNumber=(718)345-6798 major=CS]
+Student: firstName=Steve, lastName=Smith, id=2, phoneNumber=(631)123-4567 major=CS]
+Student: firstName=Bob, lastName=Haff, id=3, phoneNumber=(516)987-1234 major=CST]
+null
